@@ -2,6 +2,7 @@
 - ### A fantasy combat game where each turn dice are automatically rolled by the program for both players and the offensive/defensive impacts of their rolls are automatically incurred by their player.
 
 The creatures and their roll values are:  
+
 |Type                        | Attack     | Defense | Armor | Strength Points |  
 |----------------------------|:----------:|:-------:|:-----:|:---------------:|  
 | Medusa<sup>1</sup>         | 2d6 *Glare | 1d6     | 3     | 8               |  
@@ -9,7 +10,8 @@ The creatures and their roll values are:
 | Reptile People<sup>3</sup> | 3d6        | 1d6     | 7     | 18              |  
 | Blue Men<sup>4</sup>       | 2d10       | 3d6\*   | 3     | 12\*Mob         |  
 | Harry Potter<sup>5</sup>   | 2d6        | 2d6     | 0     | 10/20\*Hogwarts |  
-*3d6 == rolling 3 6-sided dice, 2d10 == rolling 2 10-sided dice*   
+  
+*3d6 == rolling 3 6-sided dice, 2d10 == rolling 2 10-sided dice* 
 
 <sup>1</sup>  Glare: If a Medusa rolls a 12 in attack then the target has looked her in the eyes and is turned to stone. The Medusa wins!
 
